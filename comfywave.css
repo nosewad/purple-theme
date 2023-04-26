@@ -4,7 +4,7 @@
  */
 :root {
   --spotify-vencord-wave-width: 240px;
-  --background-primary: var(--spotify);
+  --background-primary;
   /* Use HSL Values for the next one */
   --spotify-vencord-text: var(--primary-600-hsl);
 }
